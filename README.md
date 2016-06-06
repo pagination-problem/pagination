@@ -1,4 +1,4 @@
-This repository contains all the supplementary material accompanying the paper [_Algorithms for the Pagination Problem, a Bin Packing with Overlapping Items_](http://arxiv.org/abs/1605.00558) (A. Grange, I. Kacem and S. Martin, 2016). It comprises:
+This repository contains all the supplementary material accompanying the paper [_Algorithms for the Bin Packing Problem with Overlapping Items_](http://arxiv.org/abs/1605.00558) (A. Grange, I. Kacem and S. Martin, 2016, submitted to [IJOC](http://pubsonline.informs.org)). It comprises:
 
 - This document (`README.md`).
 - The MIT License (`LICENSE`).
