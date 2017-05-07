@@ -5,4 +5,4 @@ This repository contains all the supplementary material accompanying the paper [
 - The [MIT License](LICENSE).
 - This document.
 
-The whole repository can either be retrieved as a zipped archive <kbd>Download ZIP</kbd>, or cloned on your computer if you intend to keep it up to date without downloading the whole thing each time and writing over your own changes.
+The whole repository can either be retrieved as a zipped archive <kbd>Clone or download / Download ZIP</kbd>, or cloned on your computer if you intend to keep it up to date without downloading the whole thing each time and writing over your own changes.
